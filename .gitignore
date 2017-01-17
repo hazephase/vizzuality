@@ -1,6 +1,8 @@
 /.bundle
+/.data
 /log/*
 /tmp/*
+/public/assets/*
 /public/system/*
 !/log/.keep
 !/tmp/.keep

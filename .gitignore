@@ -8,3 +8,4 @@
 !/tmp/.keep
 .byebug_history
 .env
+.rbenv-gemsets
